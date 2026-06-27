@@ -215,7 +215,7 @@ Esto permite que otra persona pueda revisar el proyecto y reproducir la ejecuci�
 
 ## 14. Autor
 
-Jheison Wesley Ramos Becerra
+Edgar Heiner Jauregui Epiquien 
 
 Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas
 Escuela Profesional de Ingeniería en Ciencia de Datos e Inteligencia Artificial
