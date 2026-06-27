@@ -1,0 +1,17 @@
+numero_partido,partido,marcador_estimado,clasificado_octavos,criterio_clasificacion,confianza_modelo
+73,South Africa vs Canada,South Africa 1 - 1 Canada,Canada,Empate; clasifica por penales según mayor probabilidad del modelo,0.5509681461346574
+74,Germany vs Paraguay,Germany 3 - 0 Paraguay,Germany,Gana en tiempo reglamentario,0.8999827706543184
+75,Netherlands vs Morocco,Netherlands 2 - 1 Morocco,Netherlands,Gana en tiempo reglamentario,0.5907961703419514
+76,Brazil vs Japan,Brazil 2 - 0 Japan,Brazil,Gana en tiempo reglamentario,0.7293237415798656
+77,France vs Sweden,France 4 - 0 Sweden,France,Gana en tiempo reglamentario,0.9280555459634716
+78,Côte d'Ivoire vs Norway,Côte d'Ivoire 1 - 1 Norway,Côte d'Ivoire,Empate; clasifica por penales según mayor probabilidad del modelo,0.43126445351400144
+79,Mexico vs Ecuador,Mexico 2 - 0 Ecuador,Mexico,Gana en tiempo reglamentario,0.7224590417420615
+80,England vs Congo DR,England 2 - 0 Congo DR,England,Gana en tiempo reglamentario,0.713911637444158
+81,United States vs Bosnia-Herzegovina,United States 3 - 1 Bosnia-Herzegovina,United States,Gana en tiempo reglamentario,0.8361270931545992
+82,IR Iran vs Senegal,IR Iran 1 - 0 Senegal,IR Iran,Gana en tiempo reglamentario,0.5451614550770241
+83,Portugal vs Croatia,Portugal 1 - 0 Croatia,Portugal,Gana en tiempo reglamentario,0.606842033105897
+84,Spain vs Austria,Spain 1 - 0 Austria,Spain,Gana en tiempo reglamentario,0.6833270468901818
+85,Switzerland vs Egypt,Switzerland 2 - 0 Egypt,Switzerland,Gana en tiempo reglamentario,0.7053694871904523
+86,Argentina vs Cape Verde,Argentina 2 - 0 Cape Verde,Argentina,Gana en tiempo reglamentario,0.8572924527996987
+87,Colombia vs Ghana,Colombia 1 - 0 Ghana,Colombia,Gana en tiempo reglamentario,0.6618718176613831
+88,Australia vs Belgium,Australia 0 - 1 Belgium,Belgium,Gana en tiempo reglamentario,0.45407209311112506
